@@ -1,6 +1,6 @@
 {
   "name": "@pimd/attribute-plugin",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "Adds Attributes to HTML elements",
   "main": "index.js",
   "author": "Nico Hagenburger <nico@hagenburger.net> (https://twitter.com/hagenburger)",
