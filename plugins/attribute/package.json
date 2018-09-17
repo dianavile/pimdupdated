@@ -5,9 +5,7 @@
   "main": "index.js",
   "author": "Nico Hagenburger <nico@hagenburger.net> (https://twitter.com/hagenburger)",
   "contributors": [
-    "Violeta R. <artnerdnet@gmail.com> (https://twitter.com/artnerdnet)",
     "Diana Vile (https://github.com/dianavile)",
-    "Tobi (https://github.com/tobmaster)"
   ],
   "keywords": [
     "markdown",
