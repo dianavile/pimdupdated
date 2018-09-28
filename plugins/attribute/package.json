@@ -1,11 +1,11 @@
 {
   "name": "@pimd/attribute-plugin",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Adds Attributes to HTML elements",
   "main": "index.js",
   "author": "Nico Hagenburger <nico@hagenburger.net> (https://twitter.com/hagenburger)",
   "contributors": [
-    "Diana Vile (https://github.com/dianavile)",
+    "Diana Vile (https://github.com/dianavile)"
   ],
   "keywords": [
     "markdown",
@@ -15,6 +15,9 @@
     "access": "public"
   },
   "license": "MIT",
+  "scripts": {
+    "test": "npm run test"
+  },
   "devDependencies": {
     "pimd": "^0.1.0"
   },
